@@ -10,7 +10,7 @@ There are 7 files used in this build, chosen at ramdom.
 Connections as per several examples already on the web but here are a few pointers.
 1. Using the DFR Speaker output can produce a motorboat type noise, using the DAC outputs gets over this, 
 and if there is still any digitisation noise it can easily be filtered out with an RC filter. 
-To get maximum signal ration on the DFR output set the amlification to max (30)
+To get maximum signal ration on the DFR output set the amplification factor to max (30)
 2. The DFR unit can pick up deleted files and can produce noise before producing its output 
 so best do a deep format on the SD card before loading the mp3 files.
 3. The software limits the number of LEDS to about 40 so as not to produce power line glitches 
